@@ -6,7 +6,7 @@ int main()
 {
    SetConsoleCP(1251);
    SetConsoleOutputCP(1251);
-vgjgb h,bgvhkcgn
+vgjgb h,bgvhkcgngh
    std::cout << "Привіт, Дар'я!\n";
    system("pause");
    hjvgkmgvhk
